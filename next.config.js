@@ -4,7 +4,9 @@ const nextConfig = {
   images: {
     loader: "akamai",
     path: "",
-  }
+  },
+  basePath: "/nextjs-prixite-pages",
+  assetPrefix: "/nextjs-prixite-pages",
 }
 
 module.exports = nextConfig
