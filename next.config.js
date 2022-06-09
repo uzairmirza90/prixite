@@ -3,7 +3,7 @@ const nextConfig = {
   reactStrictMode: true,
   images: {
     loader: "akamai",
-    path: "",
+    path: "/",
   },
   basePath: "/nextjs-prixite-pages",
   assetPrefix: "/nextjs-prixite-pages",
